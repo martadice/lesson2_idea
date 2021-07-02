@@ -35,7 +35,7 @@ public class HeroApplication {
         System.out.println("************");
 
         System.out.println("Hero Name:" + heroName);
-        System.out.println("This hero lives in " + heroCity);
+        System.out.println("This hero lives in " + heroCity + ".");
         System.out.println("------------------");
         System.out.println("Hero Superpowers:");
         System.out.println("++++++" + heroPower1);
